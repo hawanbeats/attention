@@ -43,3 +43,12 @@ Her bir head için farklı dikkat örüntüleri:
 1. Gerekli kütüphaneleri yükleyin:
 ```bash
 pip install numpy matplotlib seaborn
+```
+
+2. Python dosyasını çalıştırın:
+
+```bash
+python attention.py
+```
+## 🤖 Katkı
+Bu proje, dikkat mekanizmalarını öğrenmek isteyen öğrenciler ve araştırmacılar için bir öğretici araçtır. Katkıda bulunmak isterseniz PR gönderebilirsiniz.
